@@ -1,6 +1,24 @@
 # Tic Tac Toe (Java Swing)
 
-![Screenshot](screenshots/game.png)
+Game Overview
+| Login |
+|-------|
+| ![Login](screenshots/login.png) |
+
+| Game Board |
+|------------|
+| ![Board](screenshots/game_board.png) |
+
+| Win |
+|-----|
+| ![Win](screenshots/win.png) |
+
+| Draw |
+|------|
+| ![Draw](screenshots/draw.png) |
+
+
+
 
 A classic Tic Tac Toe game with:
 - GUI using Java Swing
